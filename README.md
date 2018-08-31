@@ -1,6 +1,10 @@
 # Techspot - BrEstimateShipping - Magento 2 Module
 
-The Tech Spot Address Label Module for Magento 2 hide country and state fields in estimate shipping cart
+O Módulo TechSpot Br Estimate Shipping, formata o summary de quotação de frete do carrinho, de forma a mostrar apenas o campo CEP com a máscara padrão Brasil (99999-999).
+
+Se você deseja utilizar o módulo matrix table rate, este módulo também formata o CEP Brasil para o padrão numérico, afim de não bugar o cálculo de frete via matrix table rate.
+
+The TechSpot Br Estimate Shipping Module for Magento 2 hide country and state fields in estimate shipping cart, and show postcode with mask Brazil 99999-999
 
 
 ### Install
