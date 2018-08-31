@@ -1,6 +1,6 @@
 {
     "name": "techspot/brestimateshipping",
-    "description": "The Tech Spot Address Label Module for Magento 2 hide country and state fields in estimate shipping cart",
+    "description": "The Tech Spot Br Estimate Shipping Module for Magento 2 hide country and state fields in estimate shipping cart, and show postcode with mask Brazil 99999-999",
     "type": "magento2-module",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,8 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.2",
-        "piszczek/magento2-inputmask": ">=0.0.2"
+        "piszczek/magento2-inputmask": ">=0.0.2",
+        "webshopapps/module-matrixrate": "^20.1"
     },
     "autoload": {
         "psr-4": {
